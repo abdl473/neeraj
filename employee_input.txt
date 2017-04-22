@@ -1,0 +1,5 @@
+101	Neeraj	15000	IT
+102	Shravan	16000	Admin
+103	Raghu	17000	IT
+104	Srini	18000	Finance
+105	Reddy	20000	Admin
